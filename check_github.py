@@ -7,7 +7,8 @@ import sys
 REPO_OWNER = 'UtkarshaBhosale'
 REPO_NAME = 'Building-CI-CD-Pipeline-Tool'
 BRANCH = 'main'
-LAST_COMMIT_FILE = '/var/www/Building-CI-CD-Pipeline-Tool/last_commit.txt'
+# LAST_COMMIT_FILE = '/var/www/Building-CI-CD-Pipeline-Tool/last_commit.txt'
+LAST_COMMIT_FILE = '/tmp/last_commit.txt'
 GITHUB_API_URL = f"https://api.github.com/repos/UtkarshaBhosale/Building-CI-CD-Pipeline-Tool/commits/{BRANCH}"
 
 def get_latest_commit_sha():
