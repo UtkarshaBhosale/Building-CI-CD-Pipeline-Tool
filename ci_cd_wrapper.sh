@@ -1,5 +1,5 @@
 #!/bin/bash
-PROJECT_PATH="/var/www/building-ci-cd-pipeline-tool"
+PROJECT_PATH="/var/www/Building-CI-CD-Pipeline-Tool"
 
 python3 "$PROJECT_PATH/check_github.py"
 
