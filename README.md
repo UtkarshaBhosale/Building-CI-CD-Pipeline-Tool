@@ -37,7 +37,7 @@ The goal is to streamline the deployment process, ensuring the application stays
 
 ---
 
-### AWS EC2 Setup with Nginx
+#### 🔧 EC2 Instance Configuration with Nginx
 
 To host your CI/CD-managed application, you will need a Linux server where Nginx will act as the web server to serve your deployed files. We'll use an AWS EC2 instance running **Ubuntu 24.04 LTS** for this setup.
 
