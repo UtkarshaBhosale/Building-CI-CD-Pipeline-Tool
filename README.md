@@ -164,6 +164,8 @@ Check your site at:
 ```
 http://<your-ec2-public-ip>/
 ```
+![image](https://github.com/user-attachments/assets/a92f41e6-61f8-412b-9b0d-2048d5967eed)
+
 
 ✔️ Refreshing the page reflects the newest GitHub code.
 
